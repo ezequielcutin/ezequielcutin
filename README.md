@@ -1,8 +1,6 @@
 <p align="center">
-<a href="https://ezequielcutin.github.io/portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Ezequiel+Cutin;Software+Engineer+%7C+AI/ML+Enthusiast+%7C+Fullstack+Developer;Computer+Vision+%7C+Music+Production" alt="Typing SVG" />
-</a>
-<br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=16&pause=1000&color=88F729&center=true&multiline=true&width=435&height=71&lines=Ezequiel+Cutin;Software+Engineer+%7C+AI%2FML+Enthusiast;Fullstack+Developer+%7C+Music+Production" alt="Typing SVG" /></a>
+<br> 
 
 <p align="center">
 <a href="https://ezequielcutin.github.io/portfolio/" style="text-decoration: none; border: none; outline: none;">
