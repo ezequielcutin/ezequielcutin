@@ -43,49 +43,42 @@
 ### 🖥️ Projects
 
 <table>
-<tr><th>Machine Learning & AI</th><th>Backend & Full-Stack Development</th></tr>
+<tr><th>AI & Machine Learning</th><th>Backend & Full-Stack Development</th></tr>
 <tr><td>
 
 | **Title** | **Technologies** |
 | :--- | :--- |
-| [Simple Diffusion](https://github.com/ezequielcutin/simple-diffusion) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=Matplotlib&logoColor=white) |
-| [Architectural Style Detection](https://github.com/ezequielcutin/architecture-style-detection) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| [AI Music Generation](https://github.com/ezequielcutin/ai-music-project) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
-
+| [Simple Diffusion](https://github.com/ezequielcutin/simple-diffusion) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) <br> ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat-square&logo=Matplotlib&logoColor=white) |
+| [Architectural Style Detection](https://github.com/ezequielcutin/architecture-style-detection) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white) ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white) <br> ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| [AI Music Generation](https://github.com/ezequielcutin/ai-music-project) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) |
 </td><td>
 
 | **Title** | **Technologies** |
 | :--- | :--- |
-| [Ticket Management Microservice](https://github.com/ezequielcutin/rayca-eval) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) |
+| [Ticket Management Microservice](https://github.com/ezequielcutin/rayca-eval) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) |
 | [Wikipedia Search Engine](https://github.com/ezequielcutin/wikipedia-search-engine) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=white) |
 | [Custom MapReduce](https://github.com/abtaylor02/p4-mapreduce) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![TCP](https://img.shields.io/badge/TCP-00A4EF?style=flat-square&logo=TCP&logoColor=white) ![UDP](https://img.shields.io/badge/UDP-007ACC?style=flat-square&logo=UDP&logoColor=white) |
-| [Insta485](https://github.com/abtaylor02/p3-insta485-clientside) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) |
 
 </td></tr> </table>
 
 <table>
-<tr><th>Computer Graphics & Frontend Development</th><th>Web Applications & APIs</th></tr>
+<tr><th>Frontend & Computer Graphics</th><th>Web Applications & APIs</th></tr>
 <tr><td>
 
 | **Title** | **Technologies** |
 | :--- | :--- |
-| [Fractal Mountain Generator](https://github.com/ezequielcutin/fractal-mountain) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white) |
+| [Fractal Mountain Generator](https://github.com/ezequielcutin/fractal-mountain) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) <br> ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white) |
+| [WebGL Pyramid](https://github.com/ezequielcutin/webgl-pyramid) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) <br> ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=WebGL&logoColor=white) |
 
 </td><td>
 
 | **Title** | **Technologies** |
 | :--- | :--- |
-| [European Flights Web-App (DinoSoar)](https://github.com/ezequielcutin/dinoSOAR) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
+| [Insta485](https://github.com/abtaylor02/p3-insta485-clientside) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) |
+| [Spotify to MP3](https://github.com/ezequielcutin/spotify-to-mp3) | ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=Spotify&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white) |
+| [European Flights Web-App](https://github.com/ezequielcutin/dinoSOAR) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) |
 
 </td></tr> </table>
-
-
-
-
-
-
-
-
 
 ---
 
