@@ -32,9 +32,9 @@
 ---
 
 - 🎓 Recently graduated from the **University of Michigan** with a BSE in **Computer Science**.
-- 💻 Currently working as an **Algorithm Developer** at **Glenbrook Trading**.
+- 💻 Currently working as a **Quant Algorithm Developer** at **Glenbrook Trading**.
 - 🌱 Passionate about **AI/ML**, **Backend Development (especially connecting APIs)**, and **Scalable Systems**.
-- 🌎 Open to full-time **Full-Stack, Backend, and Frotend** opportunities, focusing on **Python**, **Golang**, and **AWS**.
+- 🌎 Open to full-time **Full-Stack, Backend, and Frotend** opportunities, focusing on **Python**, **JavaScript**, and **AWS**.
 - 🎶 In my free time, I enjoy **music production** and exploring new technologies.
 
 ---
@@ -98,6 +98,6 @@
 <summary><h3>🎧 Currently Listening To (coming soon)</h3></summary>
 <br>
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ezecutin&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 </details>
