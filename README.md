@@ -17,18 +17,6 @@
 </p>
 
 
-
-
-
-
-<br/> 
-
-<p align="center">
-<a href="https://github.com/ezequielcutin">
-    <img src="https://github-stats-alpha.vercel.app/api?username=ezequielcutin&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="Ezequiel's GitHub Stats">
-</a>
-</p>
-
 ---
 
 - 🎓 Recently graduated from the **University of Michigan** with a BSE in **Computer Science**.
