@@ -44,6 +44,8 @@
 | [Ticket Management Microservice](https://github.com/ezequielcutin/rayca-eval) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white) <br> ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white) |
 | [Wikipedia Search Engine](https://github.com/ezequielcutin/wikipedia-search-engine) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=Apache-Hadoop&logoColor=white) |
 | [Custom MapReduce](https://github.com/abtaylor02/p4-mapreduce) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![TCP](https://img.shields.io/badge/TCP-00A4EF?style=flat-square&logo=TCP&logoColor=white) ![UDP](https://img.shields.io/badge/UDP-007ACC?style=flat-square&logo=UDP&logoColor=white) |
+| [GoBank](https://github.com/ezequielcutin/gobank) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=PostgreSQL&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white) |
+
 
 </td></tr> </table>
 
