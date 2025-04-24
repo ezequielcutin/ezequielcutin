@@ -25,9 +25,8 @@
 ---
 
 - 🎓 **Computer Science** graduate with a BSE from the **University of Michigan**.
-- 💻 **Quant Algorithm Developer** at **Glenbrook Trading** and **Software Operator & Automated Driver** at **Zoox**.
+- 💻 **Quant Algorithm Developer** at **Glenbrook Trading** and **Software Engineer** at **United Wholesale Mortgage**.
 - 🌱 Passionate about **AI/ML**, **Backend Development**, and **Scalable Systems**.
-- 🌎 Open to **Full-Stack** opportunities with **Python**, **JavaScript**, and **AWS**.
 - 🎶 Enjoy **music production** and exploring new technologies.
 
 ---
