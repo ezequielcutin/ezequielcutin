@@ -30,7 +30,7 @@
 - 💻 **Software Developer I** @ United Wholesale Mortgage — greenfield servicing apps on React/TS + .NET, event-driven on GCP Pub/Sub
 - 📈 **Quant Algorithm Developer** @ Glenbrook Trading — trading and backtesting platform in C#/Python/React
 - 🎓 BSE Computer Science, University of Michigan
-- 🎶 Making techno in whatever spare free time I can scrounge up
+- 🎶 Making techno in whatever spare free time I can get
 
 <div align="center">
 
