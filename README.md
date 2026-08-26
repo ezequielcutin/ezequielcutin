@@ -1,40 +1,36 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF2E97&center=true&vCenter=true&width=560&lines=Ezequiel+Cutin;engineer+%C2%B7+builder;occasional+techno+producer;whoami" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF2E97&center=true&vCenter=true&width=560&lines=Ezequiel+Cutin;engineer+%C2%B7+builder;occasional+techno+producer" alt="Typing SVG" />
 
 <br>
 
 <a href="https://ezequielcutin.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Portfolio-1a1f2e?style=for-the-badge&logo=googlechrome&logoColor=00F0FF">
 </a>
 <a href="https://github.com/ezequielcutin/ezequielcutin/blob/main/Ezequiel%20Cutin%20resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF2E97&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Resume-1a1f2e?style=for-the-badge&logo=adobeacrobatreader&logoColor=FF2E97">
 </a>
 <a href="https://www.linkedin.com/in/ezequiel-cutin/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1f2e?style=for-the-badge&logo=linkedin&logoColor=00F0FF">
 </a>
 <a href="https://soundcloud.com/ezequiel-cutin-187993918">
-  <img src="https://img.shields.io/badge/SoundCloud-0d1117?style=for-the-badge&logo=soundcloud&logoColor=FF2E97&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/SoundCloud-1a1f2e?style=for-the-badge&logo=soundcloud&logoColor=FF2E97">
 </a>
 <a href="mailto:ezequielcutin@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00F0FF&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/Email-1a1f2e?style=for-the-badge&logo=gmail&logoColor=00F0FF">
 </a>
 <a href="https://twitter.com/ezecutin">
-  <img src="https://img.shields.io/badge/@ezecutin-0d1117?style=for-the-badge&logo=x&logoColor=FF2E97&labelColor=0d1117">
+  <img src="https://img.shields.io/badge/@ezecutin-1a1f2e?style=for-the-badge&logo=x&logoColor=FF2E97">
 </a>
 
 </div>
 
 <br>
 
-Born in Miami, studied and currently living in Michigan. I write software for a living, make techno when I can, and watch way too much football (the real one, not American). Producing music has taught me more about engineering than most classes did: the patience, the iteration, the obsession with getting small details right.
-
-```diff
-+ Software Developer I  @ United Wholesale Mortgage — greenfield servicing apps, React/TS + .NET, event-driven on GCP Pub/Sub
-+ Quant Algorithm Dev   @ Glenbrook Trading          — backtesting platform in C#/Python/React, modeling real fill conditions
-+ BSE Computer Science  @ University of Michigan
-+ Making techno and tinkering with things until they feel right
-```
+- 💻 **Software Developer I** @ United Wholesale Mortgage — greenfield servicing apps on React/TS + .NET, event-driven on GCP Pub/Sub
+- 📈 **Quant Algorithm Developer** @ Glenbrook Trading — trading and backtesting platform in C#/Python/React
+- 🎓 BSE Computer Science, University of Michigan
+- 🎶 Making techno in whatever spare free time I can scrounge up
 
 <div align="center">
 
@@ -57,9 +53,9 @@ Full-stack web app · [Live Demo](https://job-application-tracker-nu.vercel.app/
 </td>
 <td width="50%" valign="top">
 
-**[GoBank](https://github.com/ezequielcutin/gobank)**
-Full-stack banking simulator
-`Go` `Postgres` `JWT` `React` `Docker`
+**[Quietly Build](https://quietly.build)**
+Ritual-based productivity PWA for founders
+`Next.js` `TypeScript` `Supabase` `D3.js`
 
 </td>
 </tr>
@@ -103,6 +99,7 @@ API integration with metadata enrichment
 
 | Project | Stack |
 | :------ | :---- |
+| [GoBank](https://github.com/ezequielcutin/gobank) | Go · PostgreSQL · Docker |
 | [Architectural Style Detection](https://github.com/ezequielcutin/architecture-style-detection) | NumPy · Torchvision · scikit-learn |
 | [AI Music Generation](https://github.com/ezequielcutin/ai-music-project) | TensorFlow · Keras · Python |
 | [Ticket Management Microservice](https://github.com/ezequielcutin/rayca-eval) | Node.js · Express · MongoDB |
@@ -112,18 +109,3 @@ API integration with metadata enrichment
 | [European Flights Web-App](https://github.com/ezequielcutin/dinoSOAR) | Node.js · Express · JavaScript |
 
 </details>
-
-<br>
-
-<h3 align="center">📈 Stats</h3>
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ezequielcutin&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezequielcutin&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=ezequielcutin&theme=synthwave&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
